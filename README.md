@@ -158,5 +158,6 @@ Enter Vehicle Number
 Search Hash Table
         ↓
 Vehicle Found?
-   ↓             ↓
+        ↓
+Return Vehicle Details 
 ```
